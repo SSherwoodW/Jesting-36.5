@@ -1,0 +1,17 @@
+{
+  "name": "markov",
+  "version": "1.0.0",
+  "description": "markov machine",
+  "main": "markov.js",
+  "scripts": {
+    "test": "markov"
+  },
+  "author": "scott",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.6.2"
+  },
+  "dependencies": {
+    "axios": "^1.4.0"
+  }
+}
